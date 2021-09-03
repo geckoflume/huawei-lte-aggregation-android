@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Huawei LTE Aggregation</string>
+    <string name="button">Réinitialiser la connexion</string>
+    <string name="speedFormat">Vitesse de connexion : %1$.2f Mbps</string>
+    <string name="speedDescFormat">Vitesse %1$s</string>
+    <string name="loginFormat">Connexion %1$s</string>
+    <string name="freqChangeFormat">Changement de la fréquence %1$s en %2$s (%3$s) %4$s</string>
+</resources>
